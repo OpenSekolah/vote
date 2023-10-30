@@ -25,8 +25,6 @@
     DB_PASSWORD=
 ```
 
-
-```
 ## Admin panel Laravel
 ```
     username : admin@gmail.com
