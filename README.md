@@ -44,6 +44,6 @@
 ```
 
 # Image
-![Alt text](https://github.com/OpenSekolah/ppdb/blob/main/public/images/screenshot1.png)
-![Alt text](https://github.com/OpenSekolah/ppdb/blob/main/public/images/screenshot2.png)
-![Alt text](https://github.com/OpenSekolah/ppdb/blob/main/public/images/screenshot3.png)
+![Alt text](https://github.com/OpenSekolah/vote/blob/main/public/images/screenshot1.png)
+![Alt text](https://github.com/OpenSekolah/vote/blob/main/public/images/screenshot2.png)
+![Alt text](https://github.com/OpenSekolah/vote/blob/main/public/images/screenshot3.png)
