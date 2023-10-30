@@ -43,6 +43,7 @@
 	
 ```
 
-# Node
-####node Version
-#node -> stable (-> v18.14.0)
+# Image
+![Alt text](https://github.com/OpenSekolah/ppdb/blob/main/public/images/screenshot1.png)
+![Alt text](https://github.com/OpenSekolah/ppdb/blob/main/public/images/screenshot2.png)
+![Alt text](https://github.com/OpenSekolah/ppdb/blob/main/public/images/screenshot3.png)
